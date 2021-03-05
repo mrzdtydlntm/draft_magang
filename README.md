@@ -1,1 +1,2 @@
-# Semangat Magangnya!!! -mrz
+# Semangat Magangnya!!! 
+## - by mrz
